@@ -1,6 +1,6 @@
 ## Hi there 👋
-🌱 I’m currently learning Java /br
-😄 Pronouns: they/them /br
+🌱 I’m currently learning Java </br>
+😄 Pronouns: they/them </br>
 📫 How to reach me: Mail </br>
 ⚡ Fun fact: 80% of the emails that are sent every day are spam.
 <!--
