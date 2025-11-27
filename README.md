@@ -1,9 +1,9 @@
-## Hi there 👋
+<!--## Hi there 👋
 🌱 I’m currently learning  </br>
 😄 Pronouns: they/them </br>
 📫 How to reach me: </br>
 ⚡ Fun fact: </br>
-<!--
+
 **PhoenixXLII/PhoenixXLII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
